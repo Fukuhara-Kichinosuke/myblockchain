@@ -30,4 +30,5 @@ def Main():
     unspentoutputDict = class_00.getUnspentoutputsDict(outs[0])
     class_00.printDictvalue(unspentoutputDict)
 
-Main()
+if __name__ == "__main__":
+    Main()
