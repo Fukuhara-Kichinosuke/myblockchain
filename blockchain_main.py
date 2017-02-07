@@ -19,7 +19,11 @@ def Main():
     print("***transaction data components***")
     transactionDict = class_00.getTransactionDict(blockDict['transactions'])
     class_00.printDictvalue(transactionDict)
-    
+
+    print("***transaction output data***")
+    outputDict = class_00.getOutputDict(transactionDict['outputs'])
+    class_00.printDictvalue(outputDict)    
+
     print("***address data components***")
     address = blockexplorer.get_address('1HS9RLmKvJ7D1ZYgfPExJZQZA1DMU3DEVd')
     addressDict = class_00.getAddressDict(address)
