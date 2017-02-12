@@ -56,7 +56,7 @@ class SingleBlock():
         
     def printDictvalue(Dict):
 
-        for k,v in Dict.items():
+        for k,v in sorted(Dict.items()):
             if k == 'tx' or k == 'inputs' or k == 'out':
                 pass
             else:
@@ -117,13 +117,13 @@ class SingleTransaction(SingleBlock):
 class TransactionInputs(SingleTransaction):
 
     def getinputsDict(singletransactionList):
-        inputsDict = singletransactionList[1]['inputs']
+        inputsDict = singletransactionList[0]['inputs']
 
         return inputsDict
 
 class TransactionOut(SingleTransaction):
 
     def getoutDict(singletransactionList):
-        outDict = singletransactionList[1]['out']
+        outDict = singletransactionList[0]['out']
 
         return outDict

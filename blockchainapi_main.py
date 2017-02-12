@@ -5,11 +5,12 @@ Created on Thu Feb 9 2017
 @author: fukuharakichinosuke
 """
 import json
+import sys
 import requests
 from blockchainapi_mod import *
 from blockchain import blockexplorer
 
-block_hash = "000000000000000000ddb8814de36334778c1762f1a42da5401633d91cbc0d5b"
+block_hash = str(sys.argv[1])
 
 cl00 = RequestModelResponse # RequestModelResponse class
 cl01 = SingleBlock # SingleBlocke class
@@ -31,7 +32,7 @@ cl04 = TransactionOut # TransactionOut class
 ##
 ##checkType(resp)
 
-def Main():
+def Main(block_hash):
     print("*********singleblock*********")
     singleblock_resp = cl01.getsingleBlock(block_hash)
     singleblock_set = cl01.getsingleblockSet(singleblock_resp)
@@ -40,17 +41,17 @@ def Main():
     print("*********singletransaction*********")
     singletransactionList = cl02.getsingleTransaction(singleblock_set)
     #for i in range(0,len(singletransactionList)):
-    cl02.printDictvalue(singletransactionList[1])
-
+    #    cl02.printDictvalue(singletransactionList[i])
+    cl02.printDictvalue(singletransactionList[0])
     print("*********inputs*********")
     inputsDict = cl03.getinputsDict(singletransactionList)
-    cl03.printDictvalue(inputsDict[0])
-    cl03.printDictvalue(inputsDict[1])
+    for i in range(len(inputsDict)):
+        cl03.printDictvalue(inputsDict[i])
 
     print("*********out*********")
     outDict = cl04.getoutDict(singletransactionList)
-    cl04.printDictvalue(outDict[0])
-    cl04.printDictvalue(outDict[1])
+    for i in range(len(outDict)):
+        cl04.printDictvalue(outDict[i])
         
 if __name__ == "__main__":
-    Main()
+    Main(block_hash)
