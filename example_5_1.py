@@ -25,3 +25,7 @@ utxo_set = json.loads(resp.text)["unspent_outputs"]
 
 for utxo in utxo_set:
     print("%s:%d - %ld Satoshis" % (utxo['tx_hash'], utxo['tx_output_n'],utxo['value']))
+print(type(resp))
+print(type(resp.text))
+print(type(utxo_set))
+
