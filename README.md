@@ -4,7 +4,7 @@
 This project is for studying blockchain.
 
 ## Reference for general knowledge
-BitcoinORG-BIP,https://github.com/ethereum/wiki/wiki/%5BJapanese%5D-Patricia-Tree  
+Bitcoin-Improvement-Proposals,https://github.com/bitcoin/bips　　  
 Bitcoin.org-developer,https://bitcoin.org/en/developer-documentation  
 *It contains many documentation for bitocin developper.  
 BitcoinJ,https://bitcoinj.github.io/  
