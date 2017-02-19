@@ -9,8 +9,8 @@ Bitcoin.org-developer,https://bitcoin.org/en/developer-documentation
 　　　　It contains many documentation for bitocin developper.
 BitcoinJ,https://bitcoinj.github.io/  
   Library for working with the Bitcoin protocol.  
-  It can be used from any JVM compatible language: examples in Python and JavaScript are included.  
-  What is JVM ?　→　https://ja.wikipedia.org/wiki/Java%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3　　
+  It can be used from any JVM compatible language: examples in Python and JavaScript are included.    
+  What is JVM ? → https://ja.wikipedia.org/wiki/Java%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3  
   
 # Reference for crypto function
 Merkel-Partial-Tree,https://github.com/bitcoin/bips  
