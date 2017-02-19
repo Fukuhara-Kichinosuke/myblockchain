@@ -6,7 +6,7 @@ This project is for studying blockchain.
 ## Reference for general knowledge
 BitcoinORG-BIP,https://github.com/ethereum/wiki/wiki/%5BJapanese%5D-Patricia-Tree  
 Bitcoin.org-developer,https://bitcoin.org/en/developer-documentation  
-*It contains many documentation for bitocin developper.　　
+*It contains many documentation for bitocin developper.  
 BitcoinJ,https://bitcoinj.github.io/  
 *Library for working with the Bitcoin protocol.  
 *It can be used from any JVM compatible language: examples in Python and JavaScript are included.    
