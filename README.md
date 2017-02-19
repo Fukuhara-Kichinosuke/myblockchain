@@ -3,7 +3,8 @@
 ## Description
 This project is for studying blockchain.
 
-## Reference for general knowledge
+## Reference for general knowledge  
+Bitcoin-Wiki,https://en.bitcoin.it/wiki/Main_Page  
 Bitcoin-Improvement-Proposals,https://github.com/bitcoin/bips  
 Bitcoin.org-developer,https://bitcoin.org/en/developer-documentation  
 *It contains many documentation for bitocin developper.  
