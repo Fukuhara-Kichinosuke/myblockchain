@@ -12,10 +12,14 @@ BitcoinJ,https://bitcoinj.github.io/
 *It can be used from any JVM compatible language: examples in Python and JavaScript are included.    
 *What is JVM ? → https://ja.wikipedia.org/wiki/Java%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3  
   
-## Reference for crypto function
+## Reference for crypto hash function
 Merkel-Partial-Tree,https://github.com/bitcoin/bips  
 Bitcoin-protocol,https://en.bitcoin.it/wiki/Protocol_documentation#Merkle_Trees  
 python3-hashlib-document,https://docs.python.jp/3/library/hashlib.html  
+
+## Reference for Bloom Filter  
+Bloom-Filter-example,https://asecuritysite.com/encryption/bloom  
+*It can be easy testing for bloom filter.
 
 ## URL for Material
 Mastering-Bitcoin(Japanease),https://www.bitcoinbook.info/translations-of-mastering-bitcoin/  
