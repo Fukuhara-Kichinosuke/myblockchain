@@ -26,3 +26,4 @@ Bloom-Filter-example,https://asecuritysite.com/encryption/bloom
 Mastering-Bitcoin(Japanease),https://www.bitcoinbook.info/translations-of-mastering-bitcoin/  
 SECG-ORG,http://www.secg.org/sec2-v2.pdf  
 NTTDATA,https://www.boj.or.jp/announcements/release_2016/data/rel160831b7.pdf  
+slideshare-Kenji-Saito,https://www.slideshare.net/ks91020?utm_campaign=profiletracking&utm_medium=sssite&utm_source=ssslideview
