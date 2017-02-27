@@ -16,9 +16,11 @@ BitcoinJ,https://bitcoinj.github.io/
 ## Reference for crypto hash function
 Merkel-Partial-Tree,https://github.com/bitcoin/bips  
 Bitcoin-protocol,https://en.bitcoin.it/wiki/Protocol_documentation#Merkle_Trees  
-python3-hashlib-document,https://docs.python.jp/3/library/hashlib.html  
+python3-hashlib-document,https://docs.python.jp/3/library/hashlib.html  
+SHA256の解析と実装,http://wiz-code.net/vb/algorithm/sha256/01_introduction.html  
+broken SHA-1 in practice,https://shattered.io/  
 
-## Reference for Bloom Filter  
+## Reference for Bloom Filter  
 Bloom-Filter-example,https://asecuritysite.com/encryption/bloom  
 *It can be easy testing for bloom filter.
 
