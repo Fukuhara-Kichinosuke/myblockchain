@@ -37,3 +37,9 @@ Blockchain2.0,https://speakerdeck.com/ks91/blockchain-2-dot-1
 ## Smart Contracts  
 Smart Contracts,https://speakerdeck.com/ks91/smart-contracts-1  
 *Kenji Saito氏による説明資料  
+
+## Crypto Currency  
+List of cryptocurrencies,https://en.wikipedia.org/wiki/List_of_cryptocurrencies  
+*代表的な暗号通貨の種類について
+CryptoCurrency Market Capitalizations,https://coinmarketcap.com/　　
+*暗号通貨の時価総額などTOP100
