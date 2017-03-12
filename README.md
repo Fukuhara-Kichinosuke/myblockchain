@@ -33,7 +33,9 @@ Blockchain2.0概況,http://www.digitalmoney.or.jp/wp-content/uploads/2016/12/201
 *業界動向整理資料として使える。最新版はつどデジタルマネー協会で発信される→http://www.digitalmoney.or.jp/Blockchain2.0  
 Blockchain2.0,https://speakerdeck.com/ks91/blockchain-2-dot-1
 *Kenji Saito氏による説明資料  
+Open Assets Protocolの仕様（訳）,http://techmedia-think.hatenablog.com/entry/2015/05/03/190805  
+*githubの和訳記載されており、OP_RETURNの技術理解のために  
 
-## Smart Contracts  
+## Smart Contracts  
 Smart Contracts,https://speakerdeck.com/ks91/smart-contracts-1  
 *Kenji Saito氏による説明資料  
