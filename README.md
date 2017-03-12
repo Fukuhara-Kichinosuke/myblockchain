@@ -48,4 +48,8 @@ Smart Contracts,https://speakerdeck.com/ks91/smart-contracts-1
 Abra,https://www.goabra.com/   
 *P2P送金サービス  
 proof of existence,https://proofofexistence.com/  
-*存在証明サービス
+*存在証明サービス  
+Everledger,https://www.everledger.io/  
+*ダイヤモンドの偽造検出システムとして、ワインのトレーサビリティにも
+Factcom,https://factom.com/  
+*記録一般の正当性確保・監査可能にする
