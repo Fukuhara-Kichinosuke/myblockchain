@@ -28,6 +28,10 @@ broken SHA-1 in practice,https://shattered.io/
 Bloom-Filter-example,https://asecuritysite.com/encryption/bloom  
 *It can be easy testing for bloom filter.
 
+## Cryptocurrency
+List of cryptocurrency,https://en.wikipedia.org/wiki/List_of_cryptocurrencies  
+CryptoCurrency Market Capitalizations,https://coinmarketcap.com/  
+
 ## Blockchain2.0  　　
 Blockchain2.0概況,http://www.digitalmoney.or.jp/wp-content/uploads/2016/12/201612_BlockChain2.0_v06.pdf  
 *業界動向整理資料として使える。最新版はつどデジタルマネー協会で発信される→http://www.digitalmoney.or.jp/Blockchain2.0  
