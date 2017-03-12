@@ -43,3 +43,9 @@ Open Assets Protocolの仕様（訳）,http://techmedia-think.hatenablog.com/ent
 ## Smart Contracts  
 Smart Contracts,https://speakerdeck.com/ks91/smart-contracts-1  
 *Kenji Saito氏による説明資料  
+
+## Business Blockchain  
+Abra,https://www.goabra.com/   
+*P2P送金サービス  
+proof of existence,https://proofofexistence.com/  
+*存在証明サービス
