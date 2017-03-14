@@ -15,6 +15,8 @@ BitcoinJ,https://bitcoinj.github.io/
 *What is JVM ? → https://ja.wikipedia.org/wiki/Java%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3  
 ビットコイン研究所,http://doublehash.me/  
 *大石哲之氏の運営ブログ,有料会員サロンもあり  
+MasteringBitcoin 2nd Ed chap12,https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch12.asciidoc  
+*This one includes payment channels and LN(from https://twitter.com/aantonop)  
 
 ## Crypto hash function
 SECG-ORG,http://www.secg.org/sec2-v2.pdf  
