@@ -52,4 +52,8 @@ proof of existence,https://proofofexistence.com/
 Everledger,https://www.everledger.io/  
 *ダイヤモンドの偽造検出システムとして、ワインのトレーサビリティにも
 Factcom,https://factom.com/  
-*記録一般の正当性確保・監査可能にする
+*記録一般の正当性確保・監査可能にする　　
+Midasium,http://midasium.com/  
+*不動産市場での貸借契約を改善する  
+Assetchain,https://www.assetcha.in/  
+*貴重品の加工・流通過程の管理を可能にする
