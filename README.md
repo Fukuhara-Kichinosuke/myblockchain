@@ -4,9 +4,9 @@
 This project is for studying blockchain.
 
 ## Professional  
-コンセンサスベイス代表、志茂博氏によるQiita投稿,http://qiita.com/hshimo  
-ビヨンドブロックチェーンCEO、BlockchainHub　CSO、斉藤賢爾氏によるスライド,https://speakerdeck.com/ks91  
-大石哲之氏の運営ブログ、ビットコイン研究所,http://doublehash.me/  
+コンセンサスベイス代表、志茂博氏によるQiita投稿,http://qiita.com/hshimo  
+ビヨンドブロックチェーンCEO、BlockchainHub　CSO、斉藤賢爾氏によるスライド,https://speakerdeck.com/ks91  
+大石哲之氏の運営ブログ、ビットコイン研究所,http://doublehash.me/  
 *有料会員サロンもあり  
 
 ## General   
