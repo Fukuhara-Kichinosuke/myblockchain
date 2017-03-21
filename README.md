@@ -69,3 +69,6 @@ Hyperledger project wiki,https://wiki.hyperledger.org/start
 Fabric概要,https://wiki.hyperledger.org/projects/fabric.md  
 Sawtooth Lake概要,https://wiki.hyperledger.org/projects/sawtooth-lake.md  
 Iroha概要,https://wiki.hyperledger.org/projects/iroha.md  
+
+## Distributed system  
+OPODIS、分散コンピューティングと分散コンピュータシステムに関するオープンフォーラム,http://opodis2016.etsisi.upm.es/
