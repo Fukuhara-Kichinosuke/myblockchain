@@ -3,7 +3,13 @@
 ## Description
 This project is for studying blockchain.
 
-## General   
+## Professional  
+コンセンサスベイス代表、志茂博氏によるQiita投稿,http://qiita.com/hshimo  
+ビヨンドブロックチェーンCEO、BlockchainHub　CSO、斉藤賢爾氏によるスライド,https://speakerdeck.com/ks91  
+大石哲之氏の運営ブログ、ビットコイン研究所,http://doublehash.me/  
+*有料会員サロンもあり  
+
+## General   
 Mastering-Bitcoin(Japanease),https://www.bitcoinbook.info/translations-of-mastering-bitcoin/  
 Bitcoin-Wiki,https://en.bitcoin.it/wiki/Main_Page  
 Bitcoin-Improvement-Proposals,https://github.com/bitcoin/bips  
@@ -13,8 +19,6 @@ BitcoinJ,https://bitcoinj.github.io/
 *Library for working with the Bitcoin protocol.  
 *It can be used from any JVM compatible language: examples in Python and JavaScript are included.    
 *What is JVM ? → https://ja.wikipedia.org/wiki/Java%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3  
-ビットコイン研究所,http://doublehash.me/  
-*大石哲之氏の運営ブログ,有料会員サロンもあり  
 MasteringBitcoin 2nd Ed chap12,https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch12.asciidoc  
 *This one includes payment channels and LN(from https://twitter.com/aantonop)  
 
