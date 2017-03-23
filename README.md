@@ -7,8 +7,8 @@ This project is for studying blockchain.
 コンセンサスベイス代表、志茂博氏によるQiita投稿,http://qiita.com/hshimo  
 ビヨンドブロックチェーンCEO、BlockchainHub　CSO、斉藤賢爾氏によるスライド,https://speakerdeck.com/ks91  
 大石哲之氏の運営ブログ、ビットコイン研究所,http://doublehash.me/  
-*有料会員サロンもあり  
-
+*有料会員サロンもあり  
+私のBlockchain関連のBlog投稿など,https://twitter.com/Kichinosuky
 ## General   
 Mastering-Bitcoin(Japanease),https://www.bitcoinbook.info/translations-of-mastering-bitcoin/  
 Bitcoin-Wiki,https://en.bitcoin.it/wiki/Main_Page  
