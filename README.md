@@ -80,3 +80,6 @@ OPODIS、分散コンピューティングと分散コンピュータシステ�
 
 ## Development  
 Programming The Blockchain in C# 日本語,https://www.gitbook.com/book/programmingblockchain/programmingblockchain-japanese/details  
+
+## PoX
+PPcoin：Proof of Stake 採用するP2P暗号通貨,https://peercoin.net/assets/paper/peercoin-paper-jp.pdf  
