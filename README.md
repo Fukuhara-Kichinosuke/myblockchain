@@ -8,7 +8,8 @@ This project is for studying blockchain.
 ビヨンドブロックチェーンCEO、BlockchainHub　CSO、斉藤賢爾氏によるスライド,https://speakerdeck.com/ks91  
 大石哲之氏の運営ブログ、ビットコイン研究所,http://doublehash.me/  
 *有料会員サロンもあり  
-私のBlockchain関連のBlog投稿など,https://twitter.com/Kichinosuky
+私のBlockchain関連のBlog投稿など,https://twitter.com/Kichinosuky  
+
 ## General   
 Mastering-Bitcoin(Japanease),https://www.bitcoinbook.info/translations-of-mastering-bitcoin/  
 Bitcoin-Wiki,https://en.bitcoin.it/wiki/Main_Page  
@@ -22,6 +23,7 @@ BitcoinJ,https://bitcoinj.github.io/
 MasteringBitcoin 2nd Ed chap12,https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch12.asciidoc  
 *This one includes payment channels and LN(from https://twitter.com/aantonop)  
 Bitcoin Blockに関する詳細情報,https://coin.dance/blocks  
+Bitcoinの仕組み,http://bitcoin.peryaudo.org/design.html  
 
 ## Crypto hash function
 SECG-ORG,http://www.secg.org/sec2-v2.pdf  
