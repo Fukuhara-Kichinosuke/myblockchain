@@ -21,6 +21,7 @@ BitcoinJ,https://bitcoinj.github.io/
 *What is JVM ? → https://ja.wikipedia.org/wiki/Java%E4%BB%AE%E6%83%B3%E3%83%9E%E3%82%B7%E3%83%B3  
 MasteringBitcoin 2nd Ed chap12,https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch12.asciidoc  
 *This one includes payment channels and LN(from https://twitter.com/aantonop)  
+Bitcoin Blockに関する詳細情報,https://coin.dance/blocks  
 
 ## Crypto hash function
 SECG-ORG,http://www.secg.org/sec2-v2.pdf  
@@ -41,7 +42,7 @@ CryptoCurrency Market Capitalizations,https://coinmarketcap.com/
 ## Blockchain2.0  　　
 Blockchain2.0概況,http://www.digitalmoney.or.jp/wp-content/uploads/2016/12/201612_BlockChain2.0_v06.pdf  
 *業界動向整理資料として使える。最新版はつどデジタルマネー協会で発信される→http://www.digitalmoney.or.jp/Blockchain2.0  
-Blockchain2.0,https://speakerdeck.com/ks91/blockchain-2-dot-1
+Blockchain2.0,https://speakerdeck.com/ks91/blockchain-2-dot-1  
 *Kenji Saito氏による説明資料  
 Open Assets Protocolの仕様（訳）,http://techmedia-think.hatenablog.com/entry/2015/05/03/190805  
 *githubの和訳記載されており、OP_RETURNの技術理解のために  
