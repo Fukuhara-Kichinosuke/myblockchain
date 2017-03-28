@@ -83,3 +83,7 @@ Programming The Blockchain in C# 日本語,https://www.gitbook.com/book/programm
 
 ## PoX
 PPcoin：Proof of Stake 採用するP2P暗号通貨,https://peercoin.net/assets/paper/peercoin-paper-jp.pdf  
+
+## Etherium  
+Etherium.org,https://ethereum.org/  
+Vitalik Buterin,https://twitter.com/VitalikButerin  
