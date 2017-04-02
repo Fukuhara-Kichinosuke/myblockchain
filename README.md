@@ -24,7 +24,7 @@ MasteringBitcoin 2nd Ed chap12,https://github.com/bitcoinbook/bitcoinbook/blob/d
 *This one includes payment channels and LN(from https://twitter.com/aantonop)  
 Bitcoin Blockに関する詳細情報,https://coin.dance/blocks  
 Bitcoinの仕組み,http://bitcoin.peryaudo.org/design.html  
-
+BitcoinCoreによる技術ブログ,https://bitcoincore.org/  
 ## Crypto hash function
 SECG-ORG,http://www.secg.org/sec2-v2.pdf  
 Merkel-Partial-Tree,https://github.com/bitcoin/bips  
